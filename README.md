@@ -2,11 +2,7 @@
 
 A clean, modern habit tracking app built with **Flutter** and **Firebase** — helping you build streaks, stay consistent, and visualize your progress over time.
 
----
 
-## 📱 Screenshots
-
-> _Add your app screenshots here_
 
 ---
 
@@ -134,8 +130,4 @@ lib/
 
 ---
 
-## 🎥 Demo
 
-> _Add your video walkthrough link here (YouTube or Google Drive)_
-
----
